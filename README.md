@@ -1,13 +1,27 @@
-# NLP - Emotions
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
-![Maintenance]( https://img.shields.io/badge/Maintenance-Yes-green)
+# Natural Language Processing: Sentiment Analysis using TensorFlow with LTSM
+
+![Finished Project]( https://img.shields.io/badge/Finished_Project-Yes-green)
 ![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rxzv/user-login-register-system/blob/main/LICENSE)
-![image](https://github.com/rxzv/rpsic/assets/156213717/694cbca1-60dd-47ff-9a87-74efcc559bbb)
+![Python](https://img.shields.io/badge/Made_with-Python-blue.svg)
+
+## Project Overview
+<p align="justify">
+  This project delves into the realm of human emotion through the lens of Natural Language Processing (NLP). 
+  my goal is to construct a powerful model that can classify emotions within textual data, effectively creating an "emotional intelligence engine." 
+  This model will leverage the capabilities of TensorFlow, a popular deep learning and machine learning framework, and Long Short-Term Memory (LSTM) networks, 
+  known for their prowess in handling sequential data like text.
+</p>
+
+![Image](https://github.com/rxzv/rpsic/assets/156213717/694cbca1-60dd-47ff-9a87-74efcc559bbb)
 
 ## About TensorFlow
-TensorFlow is an open-source software library developed by Google for numerical computation, large-scale machine learning, and deep learning. 
-It provides a flexible platform for building and deploying powerful machine learning models. [Click here!](https://github.com/tensorflow/tensorflow)
+<p align="justify">
+  TensorFlow, an open-source library by Google, empowers users with a comprehensive platform for numerical computation, machine learning, and particularly deep learning. 
+  It offers a robust set of tools for complex mathematical operations and facilitates building intricate deep learning models inspired by the human brain. 
+  Notably, TensorFlow embraces flexibility by supporting various programming languages and extends its reach beyond model creation 
+  by providing deployment tools for real-world applications on servers, mobile devices, and even web browsers. <a href="https://github.com/tensorflow/tensorflow">Click here!</a>
+</p>
 
 ## TensorFlow Key Features
 - Machine Learning Focused: TensorFlow offers a wide range of tools and APIs specifically designed for machine learning tasks, including data preparation, model building, training, and deployment.
@@ -15,24 +29,31 @@ It provides a flexible platform for building and deploying powerful machine lear
 - High-Level APIs: Keras, a high-level API built on top of TensorFlow, simplifies model building with a user-friendly interface.
 - Production Deployment: TensorFlow offers tools and libraries for deploying trained models in various environments, from servers and mobile devices to web browsers and edge devices.
 
-## Benefits of Using TensorFlow
-- Fast Prototyping: Keras and other high-level APIs enable rapid experimentation and model development.
-- Scalability: TensorFlow can handle large datasets and complex models, making it suitable for real-world machine learning applications.
-- Community and Resources: TensorFlow has a vast and active community of developers, researchers, and enthusiasts, providing extensive documentation, tutorials, and support.
+## Project Author
+- GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
 
-## Who Uses TensorFlow?
-TensorFlow is used by a wide range of organizations and individuals for various applications, including:
+## Special Thanks to <a href="https://www.dicoding.com/">Dicoding</a>
+<img src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit.jpg"/>
 
-- Image Recognition: Classifying objects, faces, or scenes in images.
-- Natural Language Processing: Analyzing text data for sentiment analysis, machine translation, or chatbots.
-- Recommender Systems: Personalizing recommendations for products, movies, or music based on user preferences.
-- Scientific Computing: Solving complex scientific problems with numerical computations.
+<p align="justify">
+  Dicoding is a one-stop shop for Indonesian developers looking to level up their skills. 
+  It offers a comprehensive developer journey, encompassing learning, building, validation, and even job opportunities.
+  The core of Dicoding is its Academy, which provides a variety of courses on programming languages, frameworks, and other developer tools. 
+  Whether you're a beginner or a seasoned developer, Dicoding has something for you, with both free and paid subscription options.<br>
+</p>
 
-## Project Overview
-Develop a Natural Language Processing (NLP) model using TensorFlow and Long Short-Term Memory (LSTM) networks to classify human emotions based on text data. The model will utilize the Emotions Dataset, a collection of text snippets labeled with corresponding emotions.
+<p align="justify">
+  Beyond just learning, Dicoding provides opportunities to put your skills to the test with coding challenges. 
+  These challenges allow you to practice your newfound knowledge and compete with other developers to further hone your abilities.
+  Dicoding doesn't stop at education; it also helps with career development. The platform features a job board where developers can search for positions that match their skills and experience. 
+  Additionally, Dicoding hosts events and workshops that connect developers with industry professionals, fostering valuable networking opportunities.
+</p>
 
-## Dataset
-The project will utilize the Emotions Dataset, a publicly available dataset containing labeled text samples expressing various emotions. This dataset provides a rich source of data to train and evaluate our NLP model. [Click here!](https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset)
+## Dataset Reference
 
-## Expected Outcome
-A trained NLP model with TensorFlow and LSTM that accurately classifies human emotions from text data.
+<p align="justify">
+  Several publicly available datasets were utilized for this project. 
+  Descriptions and access information for each dataset can be found in the references section
+  (<a href="https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip">Dicoding</a>,
+  <a href="https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors">Kaggle</a>). These datasets provided the foundation for my exploration of this project.
+</p>
