@@ -8,7 +8,7 @@
 ## Project Overview
 <p align="justify">
   This project delves into the realm of human emotion through the lens of Natural Language Processing (NLP). 
-  my goal is to construct a powerful model that can classify emotions within textual data, effectively creating an "emotional intelligence engine." 
+  My goal is to construct a powerful model that can classify emotions within textual data, effectively creating an "emotional intelligence engine." 
   This model will leverage the capabilities of TensorFlow, a popular deep learning and machine learning framework, and Long Short-Term Memory (LSTM) networks, 
   known for their prowess in handling sequential data like text.
 </p>
