@@ -1,4 +1,4 @@
-# Natural Language Processing: Emotions Text Based Sentiment Analysis using TensorFlow with LTSM
+# Natural Language Processing: Emotions Text Based Sentiment Analysis using TensorFlow with LSTM
 
 ![Finished Project]( https://img.shields.io/badge/Finished_Project-Yes-green)
 ![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
