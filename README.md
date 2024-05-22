@@ -24,11 +24,12 @@
   known for their prowess in handling sequential data like text.
 </p>
 
+## About TensorFlow
+
 <div align="center">
   <img src="https://github.com/rxzv/rpsic/assets/156213717/694cbca1-60dd-47ff-9a87-74efcc559bbb" height=250 />
 </div>
 
-## About TensorFlow
 <p align="justify">
   TensorFlow, an open-source library by Google, empowers users with a comprehensive platform for numerical computation, machine learning, and particularly deep learning. 
   It offers a robust set of tools for complex mathematical operations and facilitates building intricate deep learning models inspired by the human brain. 
