@@ -24,7 +24,9 @@
   known for their prowess in handling sequential data like text.
 </p>
 
-![Image](https://github.com/rxzv/rpsic/assets/156213717/694cbca1-60dd-47ff-9a87-74efcc559bbb)
+<div align="center">
+  <img src="https://github.com/rxzv/rpsic/assets/156213717/694cbca1-60dd-47ff-9a87-74efcc559bbb" height=250 />
+</div>
 
 ## About TensorFlow
 <p align="justify">
