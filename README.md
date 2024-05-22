@@ -9,7 +9,7 @@
 <p align="justify">
   The rapid growth of text data originating from various social media platforms, discussion forums, product reviews, and customer service in today's digital era provides an 
   excellent opportunity to explore and understand user emotions. In fields such as marketing, customer service, politics, and mental health, sentiment analysis and emotion 
-  detection are becoming increasingly important. By understanding the emotions implicit in text, we can better understand users' feelings and perceptions and make better decisions.
+  detection are becoming increasingly important. By understanding the emotions implicit in text, This model can better understand users' feelings and perceptions and make better decisions.
 </p>
 
 <div align="center">
