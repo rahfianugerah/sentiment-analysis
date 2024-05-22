@@ -5,6 +5,17 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rahfianugerah/nlp-emotions-sentiment-analysis/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/Made_with-Python-blue.svg)
 
+## Background
+<p align="justify">
+  The rapid growth of text data originating from various social media platforms, discussion forums, product reviews, and customer service in today's digital era provides an 
+  excellent opportunity to explore and understand user emotions. In fields such as marketing, customer service, politics, and mental health, sentiment analysis and emotion 
+  detection are becoming increasingly important. By understanding the emotions implicit in text, we can better understand users' feelings and perceptions and make better decisions.
+</p>
+
+<div align="center">
+  <img src="https://github.com/rahfianugerah/nlp-emotions/assets/156213717/d0ab3cf4-83f9-4bed-8bd7-a682cc1385b0" height=200/>
+</div>
+
 ## Project Overview
 <p align="justify">
   This project delves into the realm of human emotion through the lens of Natural Language Processing (NLP). 
