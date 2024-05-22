@@ -44,6 +44,7 @@
 - Production Deployment: TensorFlow offers tools and libraries for deploying trained models in various environments, from servers and mobile devices to web browsers and edge devices.
 
 ## Project Author
+- Name: Naufal Rahfi Anugerah
 - GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
 
 ## Special Thanks to <a href="https://www.dicoding.com/">Dicoding</a>
